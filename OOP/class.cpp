@@ -48,7 +48,6 @@ private:
 
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
     C c;
     // A  B  A1  C  ~C  ~A1  ~B  ~A
     return 0;
